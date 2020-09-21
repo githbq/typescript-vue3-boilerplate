@@ -1,5 +1,5 @@
 <template lang="pug">
-.about 
+.about
   h1 This is an about page
     span 1
 </template>
