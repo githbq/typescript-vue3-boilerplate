@@ -4,7 +4,7 @@
     span 1
 </template>
 <style lang="stylus">
-div.about
+.about
   color: red
   border: 1px solid red
 </style>
